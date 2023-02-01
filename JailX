@@ -1,2 +1,0 @@
-print("DoniX & XnXs were here")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DoniTwT/JailX/main/JailXScript"))()
